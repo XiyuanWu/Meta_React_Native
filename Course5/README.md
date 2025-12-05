@@ -6,7 +6,7 @@ This course project involves building a subscription page for the Little Lemon a
 
 Refer to the [detailed instructions](./instructions5.md).
 
-Complete files refer to the folder. Note that this entire course is built on an app for Little Lemon, and I built it as the course progresses. Ultimately, I added a subscription feature to this app. The folder contains both content for the Little Lemon app, including build content, as well as the course and final assignments. 
+Complete files refer to the [folder](./LittleLemonApp/). Note that this entire course is built on an app for Little Lemon, and I built it as the course progresses. Ultimately, I added a subscription feature to this app. The folder contains both content for the Little Lemon app, including build content, as well as the course and final assignments. 
 
 ## App Preview
 
