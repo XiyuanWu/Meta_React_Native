@@ -10,6 +10,8 @@ Complete files refer to the [folder](./LittleLemonApp/). Note that this entire c
 
 To run the app on your local machine, use the `cd` switch to navigate to the `LittleLemonApp` folder, and run `npm install` and `npm start` or `npm run web` to start the app. 
 
+Alternatively, you can download the [zip file](./Litter%20Lemon%20App.zip), unzip it, and run `npm start` or `npm run web` to start the app.
+
 ## App Preview
 
 This app contains three pages: Home, Settings and Subscribe.
