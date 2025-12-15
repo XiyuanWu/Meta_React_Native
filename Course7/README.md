@@ -12,7 +12,7 @@ Complete files refer to the [folder](./Design/)(must open using Figma).
 ## Preview
 
 Preview all pages: 
-![](./Preview/Little%20Lemon.png)
+![](./Preview/All%20pages.png)
 
 Individual page
 
@@ -29,5 +29,3 @@ Individual page
         <td><img src="./Preview/preeorder confirmation.png" alt="process-order" width="300"></td>
     </tr>
 </table>
-
-<!-- test -->
