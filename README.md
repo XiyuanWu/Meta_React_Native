@@ -11,5 +11,5 @@ At the end of each course, there is an end-of-course project and a specializatio
 - Course 5: React Native
 - Course 6: Working with Data
 - Course 7: Principles of UX/UI Design
-
 - Course 8: Capstone (React App)
+
