@@ -1,1 +1,1 @@
-# Course _: 
+# Course 8: Capstone (React App)
