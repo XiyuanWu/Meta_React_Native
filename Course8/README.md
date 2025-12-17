@@ -43,7 +43,7 @@ Here is the preview of the comprehensive Little Lemon app I made. Note that sinc
     </tr>
 </table>
 
-3. The Menu page is scrollable since there are many menu items. Here is a complete view:
+4. The Menu page is scrollable since there are many menu items. Here is a complete view:
 
 <table>
     <tr>
